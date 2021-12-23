@@ -1,8 +1,7 @@
 
 # Customizable Restaurant Webpage
 
-This is fully customizable webpage for resturants. All fields can be easily customized from the admin panel.
-This is achieved by connecting the front-end fields directly to the database.
+This is a fully customizable webpage for restaurants. All fields can be easily customized from the admin panel. This is achieved by connecting the front-end fields directly to the database.
 
 Template: https://www.free-css.com/free-css-templates/page252/live-dinner
 
